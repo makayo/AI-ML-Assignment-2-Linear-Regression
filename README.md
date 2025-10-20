@@ -1,7 +1,7 @@
 # House Price Prediction with Simple Linear Regression
 
 ## Author: MARK YOSINAO 
-Fall 2025 — Machine Learning_Linear Regression, Data Cleaning, and Feature Engineering
+Machine Learning_Linear Regression, Data Cleaning, and Feature Engineering
 
 ## Environment
 - Python 3.11.3
